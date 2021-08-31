@@ -5,6 +5,7 @@ Hello world..
 change- 1 to check .
 check- 2 diff.
 
+
 change-3  to fix the bug 1.
 
 change- 4 for WI4 by teammate.
@@ -17,3 +18,15 @@ change- 6 to fix the bug 1.
 change 7 to fix bug2.
 change 7 by teammate
 
+change -> to fix the bug 1.
+
+change 8 -> for WI4 by teammate.
+
+change 9 -> to check .
+check 10 -> diff.
+
+change 11 -> to fix the bug 1.
+
+change 12 -> to fix bug2.
+
+change 13 -> to work on CR1.
