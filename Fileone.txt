@@ -2,17 +2,18 @@ welcome to git!!!
 
 Hello world..
 
-change- to check .
+change- 1 to check .
+check- 2 diff.
+
+change-3  to fix the bug 1.
+
+change- 4 for WI4 by teammate.
+
+change-5  to check .
 check- diff.
 
-change- to fix the bug 1.
+change- 6 to fix the bug 1.
 
-change- for WI4 by teammate.
-
-change- to check .
-check- diff.
-
-change- to fix the bug 1.
-
-change to fix bug2.
+change 7 to fix bug2.
+change 7 by teammate
 
